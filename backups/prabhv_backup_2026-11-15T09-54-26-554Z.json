@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "app": "Prabhv",
+  "database_type": "PostgreSQL",
+  "timestamp": "2026-11-15T09:54:26.554Z",
+  "tables": {
+    "users": [],
+    "profiles": [],
+    "semesters": [],
+    "subjects": [],
+    "modules": [],
+    "topics": [],
+    "revision_cycles": []
+  },
+  "checksum": "cb5ea63019bd187f66a2684a2318a28eb9c3ecb2f6015cf2e1cd7e3314092d06"
+}
